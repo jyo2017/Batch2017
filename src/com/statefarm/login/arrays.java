@@ -15,7 +15,7 @@ public class arrays {
 		 System.out.println(name[2]);
 		 System.out.println(name[3]);
 		 System.out.println(name[4]);
-		
+		//java update and comment
 
 	}
 
