@@ -11,6 +11,7 @@ public class addmethod {
 		// method
 		addmethod a=new addmethod();
 		a.add(10, 10);
+		System.out.println("welcome jav");
 
 	}
 
